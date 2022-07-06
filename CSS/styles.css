@@ -1,0 +1,44 @@
+body {
+    width: 60%;
+    margin:auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+}
+
+h1, h2, h3{
+    color: darkred;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+h2 {
+    font-size: 2.8rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+q {
+    font-style: italic;
+    color: darkred;
+    margin: 2rem;
+    font-size: 1.5rem;
+}
+
+img {
+    width: 30%;
+    margin: 2rem 0;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+    background-color: red;
+    color: white;
+}
